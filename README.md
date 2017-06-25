@@ -67,7 +67,7 @@ Most work takes place on OpenWRT or now its fork LEDE, a Linux distribution for 
 
 * [Altermundi:](https://www.altermundi.net/) Based in Argentina, Altermundi provides tools for communities to build networks. Heads up Libremesh and other associated projects like Altermap.
 
-* [Sudomesh:](https://sudoroom.org/wiki/Mesh) A project by the Sudo Room hackerspace, Sudo Mesh is building the People's Own Network in Oakland, CA.
+* [Sudomesh:](https://sudoroom.org/wiki/Mesh) A project by the Sudo Room hackerspace, Sudo Mesh is building the [People's Open Network](https://peoplesopen.net) in Oakland, CA.
 
 * [Reseau Libre:](https://wiki.reseaulibre.ca/) The successor of Ile Sans Fil in Montreal, Reseau Libre builds and maintains a community wireless network in downtown Montreal.
 
@@ -82,6 +82,12 @@ Most work takes place on OpenWRT or now its fork LEDE, a Linux distribution for 
 * [RISE NYC:](https://www.newamerica.org/resilient-communities/flexible-future-ready-networks/rise-nyc/) A project to create disaster-resilient community wireless infrastructure and practices in NYC.
 
 * [WasabiNet:](http://gowasabi.net/) A community-oriented wireless ISP in St. Louis, MO.
+
+* [Network Bogota:](https://networkbogota.org/) Developing community mesh networks in Bogota, Columbia.
+
+* [CooLab:](http://www.coolab.org/) Supporting the development of community networks and autonomous telecommunications in various cities and communities in Brazil, from Sao Paulo to the heart of the Amazon.
+
+* [OpenFreeNet:](http://openfreenet.org/) Using mesh networks to store and deliver educational content to rural communities in India.
 
 ## Defunct/Inactive Community Wireless Networks ##
 
